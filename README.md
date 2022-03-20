@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This's Mert</h1>
+<h1 align="center">Hi 👋, This is Mert</h1>
 <h3 align="center">I'm a developer who wants to learn more somehow.</h3>
 
 <p align="left"> <a href="https://twitter.com/_mertsimsek" target="blank"><img src="https://img.shields.io/twitter/follow/_mertsimsek?logo=twitter&style=for-the-badge" alt="_mertsimsek" /></a> </p>
